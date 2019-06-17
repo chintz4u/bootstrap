@@ -1,0 +1,25 @@
+#main-hello{
+    color: red;
+}
+h2{
+    color: salmon
+}
+body{
+    background-color: rgb(235, 213, 217)
+}
+p{ 
+    text-align: center;
+    color: blue;
+    font-family: Arial;
+    font-size: 14px;
+    border: 10mm;
+    border-color: blueviolet;
+    border-style: solid;
+    border-width: 10mm
+}
+video{
+    border: 10mm;
+    border-color: blueviolet;
+    border-style: solid;
+    border-width: 10mm
+}
